@@ -1,5 +1,5 @@
 ![Docker Pulls](https://img.shields.io/docker/pulls/hitalos/laravel.svg)
-
+(this is a forked from hilatos/laravel. credits goes to him)
 # laravel
 Docker image to run PHP (supporting Laravel) and Node projects.
 
